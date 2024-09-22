@@ -5,9 +5,9 @@ Teste para processo seletivo, realizado em Python, utilizando o Jupyter. Solicit
 
 1. Cadastro de Clientes:
   - Campos necessários: nome, CPF, e-mail, endereço e telefone.
-    - Validações:
-  - CPF: Deve ser validado para garantir que é um CPF válido
-  - E-mail: Deve ser validado com uma expressão regular.
+  - Validações:
+    - CPF: Deve ser validado para garantir que é um CPF válido
+    - E-mail: Deve ser validado com uma expressão regular.
 
 2. Emissão de um documento pdf:
   - Após o cadastro, um documento pdf deve ser gerado em formato PDF com os dados do cliente (nome, CPF, data de emissão).
